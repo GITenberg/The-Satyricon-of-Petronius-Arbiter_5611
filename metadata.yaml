@@ -1,0 +1,37 @@
+_repo: The-Satyricon-of-Petronius-Arbiter_5611
+contributor:
+  translator:
+    agent_name: Burnaby, William
+    aliases:
+    - Burnaby, Charles
+    - Burnaby, W. (William)
+    birthdate: 1672
+    deathdate: 1706
+    gutenberg_agent_id: '1811'
+    url: http://www.gutenberg.org/2009/agents/1811
+creator:
+  author:
+    agent_name: Petronius Arbiter
+    aliases:
+    - Petronius, Titus
+    - Petronius, Gaius
+    birthdate: 20
+    deathdate: 66
+    gutenberg_agent_id: '1743'
+    url: http://www.gutenberg.org/2009/agents/1743
+    wikipedia: http://en.wikipedia.org/wiki/Petronius
+description: Satyrica -- Satyrica, fragmenta.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire, Latin -- Translations into English'
+- !lcsh 'Rome -- Fiction'
+- !lcc 'PA'
+title: The Satyricon of Petronius Arbiter
+url: http://www.gutenberg.org/ebooks/5611
