@@ -1,5 +1,5 @@
 _repo: The-Satyricon-of-Petronius-Arbiter_5611
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Burnaby, William
@@ -39,5 +39,6 @@ subjects:
 - !lcsh 'Satire, Latin -- Translations into English'
 - !lcsh 'Rome -- Fiction'
 - !lcc 'PA'
+- GITenberg
 title: The Satyricon of Petronius Arbiter
 url: http://www.gutenberg.org/ebooks/5611
